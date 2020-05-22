@@ -5,9 +5,4 @@ This script only outputs to the terminal window.
 
 To run it, paste this command into your terminal window:
 
-Linux/MacOS<Catalina:
-curl -L https://raw.githubusercontent.com/linux-user-142/starwars-spam/master/spammer.sh | bash
-
-MacOS Catalina:
-curl -L https://raw.githubusercontent.com/linux-user-142/starwars-spam/master/spammer.sh | zsh
-
+curl -L https://raw.githubusercontent.com/linux-user-142/starwars-spam/master/spammer.sh | sh
