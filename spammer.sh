@@ -23,4 +23,3 @@ do
 	echo "$line"
 done < "$input"
 
-exec ls -alh
